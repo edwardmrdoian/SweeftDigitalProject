@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<row>
+		<Inital>AED</Inital>
+		<Name>10 არაბეთის გაერთიანებული საამიროების დირჰამი</Name>
+		<Buy>8.9289</Buy>
+		<Sell>0.0213</Sell>
+	</row>
+	<row>
+		<Inital>AMD</Inital>
+		<Name>1000 სომხური დრამი</Name>
+		<Buy>6.2779</Buy>
+		<Sell>0.0160</Sell>
+	</row>
+	<row>
+		<Inital>AUD</Inital>
+		<Name>1 ავსტრალიური დოლარი</Name>
+		<Buy>2.4918</Buy>
+		<Sell>0.0060</Sell>
+	</row>
+	<row>
+		<Inital>AZN</Inital>
+		<Name>1 აზერბაიჯანული მანათი</Name>
+		<Buy>1.9305</Buy>
+		<Sell>0.0047</Sell>
+	</row>
+	<row>
+		<Inital>BGN</Inital>
+		<Name>1 ბულგარული ლევი</Name>
+		<Buy>2.0535</Buy>
+		<Sell>0.0118</Sell>
+	</row>
+	<row>
+		<Inital>BRL</Inital>
+		<Name>1 ბრაზილიური რიალი</Name>
+		<Buy>0.6251</Buy>
+		<Sell>0.0021</Sell>
+	</row>
+	<row>
+		<Inital>BYN</Inital>
+		<Name>1 ბელარუსული რუბლი</Name>
+		<Buy>1.2750</Buy>
+		<Sell>0.0029</Sell>
+	</row>
+	<row>
+		<Inital>CAD</Inital>
+		<Name>1 კანადური დოლარი</Name>
+		<Buy>2.5603</Buy>
+		<Sell>0.0101</Sell>
+	</row>
+	<row>
+		<Inital>CHF</Inital>
+		<Name>1 შვეიცარიული ფრანკი</Name>
+		<Buy>3.7027</Buy>
+		<Sell>0.0288</Sell>
+	</row>
+	<row>
+		<Inital>CNY</Inital>
+		<Name>10 ჩინური იუანი</Name>
+		<Buy>5.0211</Buy>
+		<Sell>0.0196</Sell>
+	</row>
+	<row>
+		<Inital>CZK</Inital>
+		<Name>10 ჩეხური კრონა</Name>
+		<Buy>1.5283</Buy>
+		<Sell>0.0043</Sell>
+	</row>
+	<row>
+		<Inital>DKK</Inital>
+		<Name>10 დანიური კრონი</Name>
+		<Buy>5.4016</Buy>
+		<Sell>0.0286</Sell>
+	</row>
+	<row>
+		<Inital>EGP</Inital>
+		<Name>10 ეგვიპტური გირვანქა</Name>
+		<Buy>2.0848</Buy>
+		<Sell>0.0032</Sell>
+	</row>
+	<row>
+		<Inital>EUR</Inital>
+		<Name>1 ევრო</Name>
+		<Buy>4.0161</Buy>
+		<Sell>0.0202</Sell>
+	</row>
+	<row>
+		<Inital>GBP</Inital>
+		<Name>1 დიდი ბრიტანეთის გირვანქა სტერლინგი</Name>
+		<Buy>4.4221</Buy>
+		<Sell>0.0041</Sell>
+	</row>
+	<row>
+		<Inital>HKD</Inital>
+		<Name>10 ჰონკონგური დოლარი</Name>
+		<Buy>4.2301</Buy>
+		<Sell>0.0102</Sell>
+	</row>
+	<row>
+		<Inital>HUF</Inital>
+		<Name>100 უნგრული ფორინტი</Name>
+		<Buy>1.1028</Buy>
+		<Sell>0.0038</Sell>
+	</row>
+	<row>
+		<Inital>ILS</Inital>
+		<Name>10 ისრაელის შეკელი</Name>
+		<Buy>10.2171</Buy>
+		<Sell>0.0417</Sell>
+	</row>
+	<row>
+		<Inital>INR</Inital>
+		<Name>100 ინდური რუპია</Name>
+		<Buy>4.4664</Buy>
+		<Sell>0.0155</Sell>
+	</row>
+	<row>
+		<Inital>IRR</Inital>
+		<Name>10000 ირანული რიალი</Name>
+		<Buy>0.7808</Buy>
+		<Sell>0.0018</Sell>
+	</row>
+	<row>
+		<Inital>ISK</Inital>
+		<Name>100 ისლანდიური კრონი</Name>
+		<Buy>2.5693</Buy>
+		<Sell>0.0064</Sell>
+	</row>
+	<row>
+		<Inital>JPY</Inital>
+		<Name>100 იაპონური იენი</Name>
+		<Buy>3.1643</Buy>
+		<Sell>0.0055</Sell>
+	</row>
+	<row>
+		<Inital>KGS</Inital>
+		<Name>100 ყირგიზული სომი</Name>
+		<Buy>3.8823</Buy>
+		<Sell>0.0162</Sell>
+	</row>
+	<row>
+		<Inital>KRW</Inital>
+		<Name>1000 სამხრეთ კორეული ვონი</Name>
+		<Buy>3.0027</Buy>
+		<Sell>0.0192</Sell>
+	</row>
+	<row>
+		<Inital>KWD</Inital>
+		<Name>1 ქუვეითური დინარი</Name>
+		<Buy>10.7384</Buy>
+		<Sell>0.0259</Sell>
+	</row>
+	<row>
+		<Inital>KZT</Inital>
+		<Name>100 ყაზახური ტენგე</Name>
+		<Buy>0.7794</Buy>
+		<Sell>0.0014</Sell>
+	</row>
+	<row>
+		<Inital>MDL</Inital>
+		<Name>10 მოლდოვური ლეი</Name>
+		<Buy>1.9045</Buy>
+		<Sell>0.0074</Sell>
+	</row>
+	<row>
+		<Inital>NOK</Inital>
+		<Name>10 ნორვეგიული კრონი</Name>
+		<Buy>3.8029</Buy>
+		<Sell>0.0157</Sell>
+	</row>
+	<row>
+		<Inital>NZD</Inital>
+		<Name>1 ახალზელანდიური დოლარი</Name>
+		<Buy>2.3396</Buy>
+		<Sell>0.0105</Sell>
+	</row>
+	<row>
+		<Inital>PLN</Inital>
+		<Name>10 პოლონური ზლოტი</Name>
+		<Buy>8.8697</Buy>
+		<Sell>0.0208</Sell>
+	</row>
+	<row>
+		<Inital>QAR</Inital>
+		<Name>10 კატარული რიალი</Name>
+		<Buy>8.9146</Buy>
+		<Sell>0.0258</Sell>
+	</row>
+	<row>
+		<Inital>RON</Inital>
+		<Name>10 რუმინული ლეი</Name>
+		<Buy>8.2387</Buy>
+		<Sell>0.0411</Sell>
+	</row>
+	<row>
+		<Inital>RSD</Inital>
+		<Name>100 სერბიული დინარი</Name>
+		<Buy>3.4156</Buy>
+		<Sell>0.0164</Sell>
+	</row>
+	<row>
+		<Inital>RUB</Inital>
+		<Name>100 რუსული რუბლი</Name>
+		<Buy>4.4667</Buy>
+		<Sell>0.0308</Sell>
+	</row>
+	<row>
+		<Inital>SEK</Inital>
+		<Name>10 შვედური კრონი</Name>
+		<Buy>3.9841</Buy>
+		<Sell>0.0255</Sell>
+	</row>
+	<row>
+		<Inital>SGD</Inital>
+		<Name>1 სინგაპურული დოლარი</Name>
+		<Buy>2.4695</Buy>
+		<Sell>0.0074</Sell>
+	</row>
+	<row>
+		<Inital>TJS</Inital>
+		<Name>10 ტაჯიკური სომონი</Name>
+		<Buy>2.9022</Buy>
+		<Sell>0.0070</Sell>
+	</row>
+	<row>
+		<Inital>TMT</Inital>
+		<Name>10 თურქმენული მანათი</Name>
+		<Buy>9.3700</Buy>
+		<Sell>0.0226</Sell>
+	</row>
+	<row>
+		<Inital>TRY</Inital>
+		<Name>1 თურქული ლირა</Name>
+		<Buy>0.4438</Buy>
+		<Sell>0.0057</Sell>
+	</row>
+	<row>
+		<Inital>UAH</Inital>
+		<Name>10 უკრაინული გრივნა</Name>
+		<Buy>1.1623</Buy>
+		<Sell>0.0087</Sell>
+	</row>
+	<row>
+		<Inital>USD</Inital>
+		<Name>1 აშშ დოლარი</Name>
+		<Buy>3.2795</Buy>
+		<Sell>0.0079</Sell>
+	</row>
+	<row>
+		<Inital>UZS</Inital>
+		<Name>1000 უზბეკური სუმი</Name>
+		<Buy>0.3130</Buy>
+		<Sell>0.0006</Sell>
+	</row>
+	<row>
+		<Inital>ZAR</Inital>
+		<Name>10 სამხრეთაფრიკული რანდი</Name>
+		<Buy>2.2337</Buy>
+		<Sell>0.0141</Sell>
+	</row>
+</root>
